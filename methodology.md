@@ -1,1 +1,28 @@
-
+- [ ] Subdomain enum
+- [ ] 
+- [ ] 
+- [ ] Zone transfer check
+- [ ] Subdomain takeover check
+- [ ] Parameter crawling
+- [ ] Request Smuggling check
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
